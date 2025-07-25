@@ -32,6 +32,7 @@ Relationships:
 One-to-many between Customers and Orders
 Many-to-one between Orders and Products
 One-to-one between Customer and LoyaltyTier
+
 ⚙️ Technologies & Tools Used
 Tool	Purpose
 Salesforce Lightning App Builder	Custom UI and layout creation
@@ -40,17 +41,17 @@ Apex Triggers	Execute logic like updating loyalty status
 Batch Apex	Process bulk records (e.g., orders) asynchronously
 Validation Rules	Ensure data integrity from UI
 Scheduled Apex	Run nightly inventory & order updates
+
 📚 What I Learned
 Designing scalable Salesforce Data Models
 Implementing automation with Flows and Apex
 Maintaining data integrity using validation rules and Flow error handling
 Building custom apps with Lightning App Builder
 Writing Apex and Asynchronous Apex for complex operations
+
 👨‍💻 Author
-Vishwasjeet Kumar Gupta
-Salesforce Developer | B.Tech CSE | Passionate about CRM Solutions
-LinkedIn Profile
+Yash Bhamare
 
 🔗 Project Links
-🎥 Demo Video: Click Here-Video
+🎥 Demo Video: [Click Here-Video](https://drive.google.com/file/d/1K9giCr1mE7cJpYiYXGdcWeMAqHMv4CGF/view?usp=sharing)
 💻 GitHub Repository: https://github.com/vishwas7782/handsmen-threads-salesforce.git
