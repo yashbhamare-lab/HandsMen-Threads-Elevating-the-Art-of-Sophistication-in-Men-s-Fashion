@@ -53,5 +53,6 @@ Writing Apex and Asynchronous Apex for complex operations
 Yash Bhamare
 
 🔗 Project Links
-🎥 Demo Video: [Click Here-Video](https://drive.google.com/file/d/1K9giCr1mE7cJpYiYXGdcWeMAqHMv4CGF/view?usp=sharing)
-💻 GitHub Repository: https://github.com/vishwas7782/handsmen-threads-salesforce.git
+🎥 Demo Video: [Click Here-Video](https://drive.google.com/file/d/1K9giCr1mE7cJpYiYXGdcWeMAqHMv4CGF/view?usp=sharing) 
+
+💻 GitHub Repository: https://github.com/yashbhamare-lab/HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion.git
